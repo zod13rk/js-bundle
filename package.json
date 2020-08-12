@@ -1,0 +1,27 @@
+{
+  "name": "@zodiark/bundle",
+  "version": "1.0.0",
+  "description": "bundling js files (using require statements) into 1 big file",
+  "main": "src/bundle.js",
+  "bin": {
+    "bundle": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zod13rk/js-bundle.git"
+  },
+  "keywords": [
+    "bundle",
+    "commonJs"
+  ],
+  "author": "zodiark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zod13rk/js-bundle/issues"
+  },
+  "homepage": "https://github.com/zod13rk/js-bundle#readme",
+  "devDependencies": {}
+}
